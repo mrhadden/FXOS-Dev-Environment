@@ -1,0 +1,1 @@
+# setup the fxos build enviornment
